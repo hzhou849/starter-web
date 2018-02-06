@@ -1,8 +1,0 @@
-#! /bin/bash
-
-# Creating new bash script for repo
-if [ -z $variable ]
-    echo "test"
-fi
-
-more logic
