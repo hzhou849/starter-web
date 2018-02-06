@@ -4,3 +4,5 @@
 if [ -z $variable ]
     echo "test"
 fi
+
+more logic
