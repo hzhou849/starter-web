@@ -1,1 +1,3 @@
-sdafiasdf
+#! /bin/bash
+
+# Creating new bash script for repo
